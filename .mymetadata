@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="zt-project-test"
+  id="myeclipse.1333632030872"
+  context-root="/zt-project-test"
+  j2ee-spec="5.0"
+  archive="zt-project-test.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
